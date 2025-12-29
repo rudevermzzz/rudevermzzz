@@ -1,6 +1,17 @@
 # 💫 About Me:
-i am currently studying in college <br>i am interested in coding <br>i am starting my coding journey <br>i have made some projects which include basics of coding 
+Hi, I’m Rudra Verma — a Computer Science student and an aspiring software developer who loves building practical, real-world projects.
+Currently focused on Data Structures & Algorithms, Python development, and strengthening my core CS fundamentals.
 
+I enjoy solving problems, learning new technologies, and constantly improving my skills through hands-on projects and consistent practice.
+My long-term goal is to become a strong full-stack / software engineer and contribute to impactful products.
+
+I believe in:
+
+writing clean, efficient code
+
+building things that actually work in the real world
+
+learning something new every day
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudevermzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rudra-verma-075b992a1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/No_Photograph_5070) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rudra9379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudra9379@gmail.com) 
